@@ -28,7 +28,7 @@ Follow these simple steps to start your educational journey:
 1. **Clone the Repository**: Begin by cloning this repository to your local machine.
 
    ```shell
-   git clone https://github.com/your-username/your-framework.git
+   git clone https://github.com/bedel13/php-framework.git
    ```
 
 2. **Install Dependencies**: Use Composer to install project dependencies.
