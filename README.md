@@ -2,13 +2,13 @@
   <img src="logo.png" alt="Framework Logo" width="200" height="200">
 </p>
 
-# Your Simple PHP Framework
+# Simple PHP Framework
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Welcome to Your Simple PHP Framework! 🚀
+Welcome to Simple PHP Framework! 🚀
 
-Your Framework is an educational PHP framework thoughtfully designed to assist you in learning web development. It serves as a valuable resource to enhance your PHP knowledge and deepen your understanding of web application development.
+This framework is an educational PHP framework thoughtfully designed to assist you in learning web development. It serves as a valuable resource to enhance your PHP knowledge and deepen your understanding of web application development.
 
 ## Features
 
