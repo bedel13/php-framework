@@ -56,7 +56,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Enjoy your journey of learning with Your Simple PHP Framework! Happy coding! 🚀
-```
+Enjoy your journey of learning with this Simple PHP Framework! Happy coding! 🚀
 
-This updated README emphasizes that the framework is primarily for learning purposes and encourages users to explore and experiment with web development concepts.
